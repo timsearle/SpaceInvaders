@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Emul8080r",
+        "repositoryURL": "https://github.com/timsearle/emul8080r.git",
+        "state": {
+          "branch": "main",
+          "revision": "ca991ec698aaf7149a54742c19980e0dfe9e9248",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
